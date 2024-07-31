@@ -2,7 +2,7 @@
 # Hello there! 👋 I'm Iñigo Auzmendi
 
 ## About Me
-I'm a Mechanical Engineer by training with a diverse background spanning sales and engineering. Recently, I've embarked on an exciting new journey into the world of Data Science.
+I'm a  data scientist & mechanical engineer by training with a diverse background spanning sales and engineering. Recently, I've embarked on an exciting new journey into the world of Data Science.
 I'm passionate about physics, technology, and animals, and I love applying my varied experience to solve complex data-driven problems.
 
 
